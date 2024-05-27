@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvaan_CLDV_part2", "Uvaan_CLDV_part2\Uvaan_CLDV_part2.csproj", "{46F58D74-323F-4506-91A1-DA475468169A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F58D74-323F-4506-91A1-DA475468169A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F58D74-323F-4506-91A1-DA475468169A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F58D74-323F-4506-91A1-DA475468169A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F58D74-323F-4506-91A1-DA475468169A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E193871D-6D34-4C37-A4A5-C4EDA04E7E31}
+	EndGlobalSection
+EndGlobal
